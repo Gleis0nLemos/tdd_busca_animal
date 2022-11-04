@@ -5,11 +5,11 @@
 
 ## Aula 02: 
 
-#### Configuramos o Selenium para utilizar o Google Chrome;
+#### Aplicamos a metodologia do TDD para desenvolver uma 
+#### função que descobre a idade;
 
 #### Subimos um servidor de teste com LiveServerTestCase;
 
-#### Criamos um método para falhar e vimos como essa falha é exibida quando o teste é executado.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
