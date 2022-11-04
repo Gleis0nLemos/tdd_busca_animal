@@ -3,13 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 03: 
+## Aula 04: 
 
-#### Vimos a importância da história do usuário para guiar nossos testes;
+#### Criamos uma pasta e o template chamado index.html;
 
-#### Criamos o app de Animais;
+#### Testamos se o campo de busca estava presente na index;
 
-#### Testamos a url principal da aplicação.
+#### Vimos como simular a digitação de um usuário do sistema em um cenário de teste.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
