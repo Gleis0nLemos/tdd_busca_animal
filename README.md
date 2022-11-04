@@ -3,12 +3,13 @@
 
 > Status: Em aprendizagem
 
-## Aula 02: 
+## Aula 03: 
 
-#### Aplicamos a metodologia do TDD para desenvolver uma função que descobre a idade;
+#### Vimos a importância da história do usuário para guiar nossos testes;
 
-#### Subimos um servidor de teste com LiveServerTestCase;
+#### Criamos o app de Animais;
 
+#### Testamos a url principal da aplicação.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
