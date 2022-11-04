@@ -3,16 +3,12 @@
 
 > Status: Em aprendizagem
 
-## Aula 01: 
+## Aula 02: 
 
-<h4>Aplicamos a metodologia do TDD para desenvolver uma 
-função que descobre a idade;</h4>
+#### Aplicamos a metodologia do TDD para desenvolver uma função que descobre a idade;
 
-#### Entendemos que o menor ciclo do TDD possui 3 etapas: 
-- Escrever o teste que falha; 
-- Escrever o código necessário para ser aprovado;
-- Refatorar o código.
+#### Subimos um servidor de teste com LiveServerTestCase;
+
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
-
