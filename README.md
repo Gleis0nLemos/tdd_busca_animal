@@ -5,11 +5,11 @@
 
 ## Aula 02: 
 
-#### Configuramos o Selenium para utilizar o Google Chrome;
+#### Vimos a importância da história do usuário para guiar nossos testes;
 
-#### Subimos um servidor de teste com LiveServerTestCase;
+#### Criamos o app de Animais;
 
-#### Criamos um método para falhar e vimos como essa falha é exibida quando o teste é executado.
+#### Testamos a url principal da aplicação.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
