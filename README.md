@@ -5,8 +5,7 @@
 
 ## Aula 02: 
 
-#### Aplicamos a metodologia do TDD para desenvolver uma 
-#### função que descobre a idade;
+#### Aplicamos a metodologia do TDD para desenvolver uma função que descobre a idade;
 
 #### Subimos um servidor de teste com LiveServerTestCase;
 
