@@ -11,6 +11,7 @@ class animalsURLsTest(TestCase):
         
         """Teste se a home utiliza a view index"""
         request = self.factory.get('/')
-        response = index(request)
-        self.assertEqual(response.status_code, 200)
+        with self.assertTemplateUsed('index.html'):      
+            response = index(request)
+            self.assertEqual(response.status_code, 200)
  
