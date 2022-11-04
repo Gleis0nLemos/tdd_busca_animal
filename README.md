@@ -3,7 +3,7 @@
 
 > Status: Em aprendizagem
 
-## Aula 02: 
+## Aula 03: 
 
 #### Vimos a importância da história do usuário para guiar nossos testes;
 
