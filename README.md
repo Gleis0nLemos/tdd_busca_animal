@@ -3,13 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 04: 
+## Aula 05: 
 
-#### Criamos uma pasta e o template chamado index.html;
+#### Entendemos como testar a view e o model de um app;
 
-#### Testamos se o campo de busca estava presente na index;
-
-#### Vimos como simular a digitação de um usuário do sistema em um cenário de teste.
+#### Criamos um cenário para testar a busca de um determinado animal.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
