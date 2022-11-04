@@ -3,13 +3,11 @@
 
 > Status: Em aprendizagem
 
-## Aula 03: 
+## Aula 05: 
 
-#### Vimos a importância da história do usuário para guiar nossos testes;
+#### Entendemos como testar a view e o model de um app;
 
-#### Criamos o app de Animais;
-
-#### Testamos a url principal da aplicação.
+#### Criamos um cenário para testar a busca de um determinado animal.
 
 <div align=center>
   <h4>Curso, by #Alura</h4>
