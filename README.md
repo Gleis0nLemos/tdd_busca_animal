@@ -41,10 +41,6 @@ Garanta que o pip esteja instalado, com o comando:
 ```
 pip3 --version
 ```
-Instale os drivers do selenium com base no seu sistema, e extraia para pasta do projeto.
-Link do site:
-https://selenium-python.readthedocs.io/installation.html#drivers
-
 Logo após, instale o arquivo para criação do seu ambiente virtual:
 
 
@@ -62,6 +58,16 @@ Para rodar o projeto, basta digitar no terminal:
 
 ```
 python manage.py runserver
+```
+
+Obs: Para ver os testes
+Instale os drivers do selenium com base no seu sistema, e extraia para pasta do projeto.
+Link do site:
+https://selenium-python.readthedocs.io/installation.html#drivers
+
+Para rodar os testes, use:
+```
+python mmanage.py test
 ```
 
 <div align=center>
